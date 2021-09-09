@@ -1,0 +1,96 @@
+
+body{
+    background-color: #f4f2f8;
+}
+
+.imagenesLogo{
+
+    margin: 50px 0px 50px 0px;
+}
+
+.navBg{
+    background-color: #fbe4eb;
+}
+.noPadding{
+    padding: 0px 0px 0px 0px;
+}
+
+.nav-item:hover{
+    background-color: #ccbddf;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #af8849;
+}
+
+
+.containerPadding{
+    /*padding-top: 50px;*/
+    padding-bottom: 50px;
+}
+
+.imagenesFooter{
+    width: 20px;
+}
+
+.footer{
+    justify-content: center;
+}
+
+.imagencarousel{
+    height: 500px;
+    width: auto;
+}
+
+.contenedorWPP{
+    border: solid;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.paddingTB{
+    padding: 50px 0px 50px 0px;
+}
+.paddingTBdiezpx{
+    padding: 10px 0px 10px 0px;
+}
+.paddingRL{
+    padding: 0px 10px 0px 10px ;
+}
+
+.paddingRLform{
+    padding: 0px 148px 0px 148px ;
+}
+
+.paddingT{
+    padding-top: 15px;
+}
+.paddingB{
+    padding-bottom: 50px;
+}
+.marginLeft{
+    margin-left: 20px;
+}
+.marginRight{
+    margin-right: 20px;
+}
+.dorado{
+    color: #af8849;
+    font-weight: bold;
+}
+
+.nav-link{
+    padding: 21px 0px 20px 0px;
+}
+
+.transform:hover{
+    transform: scale(2, 2);
+    transition-duration: 2s;
+    transition-delay: ease;
+}
+
+.marginB{
+    margin-bottom: 40px;
+}
