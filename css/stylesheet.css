@@ -73,6 +73,9 @@ body{
 .marginLeft{
     margin-left: 20px;
 }
+.marginLeftPestañas{
+    margin-left: 64px;
+}
 .marginRight{
     margin-right: 20px;
 }
