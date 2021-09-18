@@ -76,9 +76,7 @@ body{
 .marginLeftPestañas{
     margin-left: 64px;
 }
-.marginRight{
-    margin-right: 20px;
-}
+
 .dorado{
     color: #af8849;
     font-weight: bold;
@@ -102,3 +100,11 @@ p{
     color:   #4c4286 ;
 }
 
+@media only screen and (min-width: 1024px) {
+    .marginxlLeft {
+            margin-left: 30px;
+    }
+    .marginxlRight {
+            margin-right: 30px;
+    }
+}
