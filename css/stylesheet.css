@@ -67,6 +67,6 @@ p {
     margin-bottom: 40px; } }
 
 .transform:hover {
-  transform: scale(110%, 110%);
+  transform: scale(111%, 111%);
   transition-duration: 2s;
   transition-delay: ease; }
