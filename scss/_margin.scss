@@ -1,0 +1,20 @@
+$marginTB:50px 0px 50px 0px;
+$marginLeft:20px;
+$marginLeftpestañas:64px;
+$marginB: 0px 0px 40px 0px;
+
+.imagenesLogo{
+    margin: $marginTB;
+}
+
+.marginLeft{
+    margin-left: $marginLeft;
+}
+
+.marginLeftPestañas{
+    margin-left: $marginLeftpestañas;
+}
+
+.marginB{
+    margin: $marginB;
+}

@@ -1,0 +1,31 @@
+$fondo: #f4f2f8;
+$fondoNB:#fbe4eb;
+$fondoHover: #ccbddf;
+$fondoLink: #af8849;
+$colorParrafo:#4c4286;
+
+body{
+    background-color: $fondo;
+}
+
+.navBg{
+    background-color: $fondoNB;
+}
+
+.nav-item:hover{
+    background-color: $fondoHover;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: $fondoLink;
+}
+
+.dorado{
+    color: $fondoLink;
+    font-weight: bold;
+}
+
+p{
+    color: $colorParrafo;
+}
+

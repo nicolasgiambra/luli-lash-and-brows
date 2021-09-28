@@ -1,0 +1,40 @@
+$tb: 50px 0px 50px 0px;
+$nP: 0px 0px 0px 0px;
+$tb10px: 10px 0px 10px 0px;
+$lr10px: 0px 10px 0px 10px;
+$rl: 0px 10px 0px 10px;
+$paddingLink:21px 0px 20px 0px;
+$paddingB50: 50px;
+$rlForm:0px 148px 0px 148px;
+$containerPB:50px;
+
+.paddingTB{
+    padding: $tb;
+}
+
+.noPadding{
+    padding: $nP;
+}
+
+.paddingTBdiezpx{
+    padding: $tb10px;
+}
+
+.paddingRL{
+    padding: $rl;
+}
+
+.nav-link{
+    padding: $paddingLink;
+}
+
+.containerPadding{
+    padding-bottom: $containerPB;
+}
+
+.paddingRLform{
+    padding: $rlForm;
+}
+.paddingB{
+    padding-bottom: $paddingB50;
+}
